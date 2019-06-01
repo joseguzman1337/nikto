@@ -112,3 +112,6 @@ Basic usage:
        -vhost+            Virtual host (for Host header)
               + requires a value
 ```
+
+
+      nikto -h http://Netmon -Cgidirs all -evasion 1 -Tuning 9 -Display V
