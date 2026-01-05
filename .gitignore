@@ -4,3 +4,7 @@
 *.sublime-project
 *.sublime-workspace
 tags
+
+# macOS system files
+.DS_Store
+._*
